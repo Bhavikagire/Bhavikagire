@@ -13,13 +13,11 @@
     <a href="https://instagram.com/bhavikagire99?igshid=ZDdkNTZiNTM=" target="_open"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="bhavika height="30" width="40" /></a>
+          <a href="https://www.facebook.com/bhavika6girey?mibextid=ZbWKwL" target="_open"><img align="center"
+            src="https://s.yimg.com/fz/api/res/1.2/SBnTtvtkyJXCCDtTnKcQUw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/c165dc31-f7f7-35c4-8df4-cdd842798724/t_500x300"
+            alt="bhavika height="30" width="40" /></a>
    
     
-  
-   
-
-
-    </br> 
     
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
