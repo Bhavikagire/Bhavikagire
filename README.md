@@ -29,7 +29,7 @@
 
 - 🌏 Visit to my <a href="https://bhavikagire.github.io/">Portfolio</a>
 
-- 📃 Look at my [Resume](https://drive.google.com/file/d/1mWDwLrjilgUdLZ1BiWJJsh9N3fBUfINj/view?usp=share_link) 
+- 📃 Look at my [Resume]([https://drive.google.com/file/d/1mWDwLrjilgUdLZ1BiWJJsh9N3fBUfINj/view?usp=share_link](https://drive.google.com/file/d/1Yab9WxL3qc7D62i2s-OT1X6mOgozI41s/view?usp=sharing)) 
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Bhavikagire)
 
