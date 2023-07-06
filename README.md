@@ -4,7 +4,7 @@
    
  
 <h1 align="center">Hello 👋, I'm Bhavika Gire</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/bhavika-gire-998077209/" target="_blank"><img align="center"
