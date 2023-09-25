@@ -1,9 +1,10 @@
+<h1 align="center">Hello 👋, I'm Bhavika Gire</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="480" height="360" alt="GIF from GIPHY">
 </div>
 
  
-<h1 align="center">Hello 👋, I'm Bhavika Gire</h1>
+
 <h3 align="center">A passionate Full Stack Web Developer on a journey to craft amazing digital experiences.</h3>
 
 ## 🌱 Current Focus
