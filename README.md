@@ -9,8 +9,9 @@
 
 ## 🌱 Current Focus
 
-- Pursuing Full Stack Web Development
-- Learning Node.js
+- 💡 Exploring prompt engineering techniques to optimize coding efficiency and creativity.
+- 🚀 Mastering Full Stack Web Development, with a keen focus on Node.js and its ecosystem.
+
 
 <hr>
 <p align="center">
