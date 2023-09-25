@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Bhavika Gire</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="280" height="160" alt="GIF from GIPHY">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="380" height="260" alt="GIF from GIPHY">
 </div>
 
  
