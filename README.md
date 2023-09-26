@@ -41,7 +41,7 @@
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Bhavikagire)
 
-- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+- ⚡ Fun fact: If at first, you don’t succeed, call it version 1.0. 🚀
 
 
 
