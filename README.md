@@ -27,11 +27,11 @@
    
     
     
-- 🔭 I’m currently pursuing **Full Stack Web Development**
+- 🔭 I’m working as **Full Stack Web Developer**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **GoLang**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js & DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript,Go, Node.js & DSA**
 
 - 📫 How to reach me **bhavikagire3035@gmail.com**
 
