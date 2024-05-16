@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 💬 Ask me about **HTML, CSS, JavaScript,Go, Node.js & DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, Go, Node.js & DSA**
 
 - 📫 How to reach me **bhavikagire3035@gmail.com**
 
@@ -66,7 +66,8 @@
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         alt="github" />
-    
+   <img src="https://img.shields.io/badge/GoLang-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+        alt="mongodb" />
 </p>
 
 
