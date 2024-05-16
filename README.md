@@ -66,8 +66,8 @@
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         alt="github" />
-   <img src="https://img.shields.io/badge/GoLang-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-        alt="mongodb" />
+   <img src="https://img.shields.io/badge/GoLang-29beb0?style=for-the-badge&logo=go&logoColor=white"
+        alt="golang" />
 </p>
 
 
